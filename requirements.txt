@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-google-genai
+langchain-pinecone
+pinecone-client
+chainlit
+python-dotenv
+pydantic
+openai
+google-generativeai
